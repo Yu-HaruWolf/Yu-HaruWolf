@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 [![Yu-HaruWolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-HaruWolf&theme=algolia&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
